@@ -11,7 +11,7 @@
 # 📖 [project_name] <a name="about-project"></a>
 
 This project is called <h3>hello world<h3>
-which is developed for the porpose of mastering all remote programminng tools  and for practicesing what I have learned about .
+which is developed for the purpose of mastering all remote programminng tools  and for practicing what I have learned about .
 <p align="left"><a href="https://github.com/microverseinc/linters-config">linter</a></p>
 <p align="left"><a href="https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md">Github flows</a></p>
   <p align="left">How to pul request</p>

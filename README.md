@@ -5,8 +5,21 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Key Features](#key-features)
-
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 # 📖 [project_name] <a name="about-project"></a>
 
@@ -31,8 +44,30 @@ and how to Add ignored files.
 - **[it can  ignore files]**
 - **[it has linit]**
 
+## 🚀 Live Demo <a name="live-demo"></a>
+- [Live Demo Link] https://github.com/beteland123/hello-world
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
+In order to run this project you need: To have a code edtitor like visual strudio, download git control system,download node  and configure linter in your local computer
+
+Example command: npm install to install dependent package
+               : npm install --save-dev hint@7.x to install webhint
+               :npm install -g lighthouse to install lighthouse
+                
+
+### Setup
+
+Clone this repository to your desired folder: 
+
+git clone https://github.com/beteland123/hello-world.git
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -43,6 +78,44 @@ and how to Add ignored files.
 👤 **Betel Andarge**
 
 - GitHub: [beteland123]
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[I will  embeg a video on the webpage concernig lineter]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+
+If you like this project email me through my email address...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+
+I would like to thank my Microvese partner who helped me alot when I struggle to configure linter
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 

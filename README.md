@@ -4,7 +4,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
+   - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -64,6 +64,10 @@ Example command: npm install to install dependent package
 Clone this repository to your desired folder: 
 
 git clone https://github.com/beteland123/hello-world.git
+  
+ ### Install
+
+Install this project with:git
 ### Run tests
 
 To run tests, run the following command:

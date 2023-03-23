@@ -18,7 +18,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 [project_name] <a name="about-project"></a>
@@ -73,7 +72,6 @@ git clone https://github.com/beteland123/hello-world.git
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Betel Andarge**
 
@@ -82,7 +80,7 @@ git clone https://github.com/beteland123/hello-world.git
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[I will  embeg a video on the webpage concernig lineter]**
+- [ ] **[I will  embed a video on the webpage concernig lineter]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

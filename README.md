@@ -10,7 +10,6 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
@@ -65,6 +64,11 @@ Example command: npm install to install dependent package
 Clone this repository to your desired folder: 
 
 git clone https://github.com/beteland123/hello-world.git
+### Run tests
+
+To run tests, run the following command:
+npx stylelint "**/*.{css,scss}" 
+npx hint .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,6 +116,15 @@ If you like this project email me through my email address...
 
 
 I would like to thank my Microvese partner who helped me alot when I struggle to configure linter
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
